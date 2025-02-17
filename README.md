@@ -10,11 +10,11 @@ En el **nav bar** de Index.html hay links para acceder a:
 ## Portafolio.html
 El archivo portafolio.html muestra la recolección de proyectos realizados en el curso.
 
-Se puede encontrar en /assets/html/portafolio.html
+Se puede encontrar en: /assets/html/portafolio.html
 
 ## Colegas.html
 El archivo colegas.html muestra los screenshots de forks y commits realizados a trabajos de compañeros de curso.
 
-Se puede encontrar en /assets/html/colegas.html
+Se puede encontrar en: /assets/html/colegas.html 
 
 > Nota: `Este es un trabajo personal con fines académicos. Favor no realizar copias directas del material disponible.`
