@@ -18,3 +18,5 @@ El archivo colegas.html muestra los screenshots de forks y commits realizados a 
 Se puede encontrar en: /assets/html/colegas.html 
 
 > Nota: `Este es un trabajo personal con fines académicos. Favor no realizar copias directas del material disponible.`
+
+- Commit Realizado por Diego Gonzalez, Modificción de titulo.
